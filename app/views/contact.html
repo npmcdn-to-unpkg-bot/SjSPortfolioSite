@@ -1,0 +1,18 @@
+<form ng-submit="submitForm()" ng-controller="formController">
+    <div>
+        <label>Whats Up:</label><br />
+        <textarea type="text" ng-model="text" class="whats-up-input" placeholder="Questions, concerns, or just a cool link if you got one" required/></textarea>
+    </div>
+    <div>
+        <label>What You Go By:</label><br />
+        <input type="text" ng-model="name" placeholder="First name is fine" required/>
+    </div>
+    <div>
+        <label>Your Email:</label><br />
+        <input type="email" name="email" ng-model="email" placeholder="Let's not connect" required/>
+    </div>
+
+    <input type="submit" style="position: absolute; left: -9999px; width: 1px; height: 1px;" />
+
+</form>
+

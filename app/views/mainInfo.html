@@ -1,0 +1,46 @@
+<div class="main-content">
+
+	<div class="page-info">
+		<h2>{{waka.web_page}}</h2> 
+		<div ng-bind-html="waka.site_bio"></div>
+
+		<h2>Tools Used</h2> 
+		<div ng-bind-html="waka.tools_used"></div>
+
+		<div class="button-container">
+			<span ng-if="waka.site_preview != null" class="site-demo">
+				<a href="{{waka.site_preview}}" target="_blank" class="btn btn-primary btn-large">View Demo Site</a>
+			</span>
+
+			<span class="page-images-button">
+				<a href="{{waka.img_previews[0].url}}" class="btn btn-info btn-large" data-lightbox="set-1">
+					Screenshots
+				</a>
+
+				<span ng-repeat="img_previews in waka.img_previews" ng-hide="$first">
+					<span ng-if="img_previews.url != null">
+						<a class="example-image-link" href="{{img_previews.url}}" data-lightbox="set-1">
+						</a>
+					</span>
+				</span>
+			</span>
+		</div>
+
+	</div>
+
+	<div class="page-images">
+		<a href="{{waka.img_previews[0].url}}" data-lightbox="set-2">
+			<img ng-src="{{waka.img_previews[0].url}}" alt="{{waka.img_previews[0].title}}" style="display:none;" imageonload>
+		</a>
+
+		<span ng-repeat="img_previews in waka.img_previews" ng-hide="$first">
+			<span ng-if="img_previews.url != null">
+				<a class="example-image-link" href="{{img_previews.url}}" data-lightbox="set-2"></a>
+			</span>
+		</span>
+		<!-- TODOs:: <span class="preview-text">^^ click image to preview</span> 
+		<div class="loading-image" style="width:32px !important; position:absolute; margin-left:-16px; left:50%;"><img width="32" height="32" src="img/loading.gif"></div>-->
+	</div>
+
+
+</div>
