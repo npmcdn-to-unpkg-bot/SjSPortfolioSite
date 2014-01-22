@@ -1,0 +1,233 @@
+{
+  "homepage" :[
+    {
+      "bodyText":"Welcome! My name is <span>Scott j Sullivan</span> and this would be my simple portfolio site, with outdated updates and pending additions.  Please poke around..."
+    }
+  ],
+  "sites" : [
+    {
+      "web_page":"Microsite Template",
+      "site_bio":"<p>This microsite template is fully customizable in which all borders&#44; buttons&#44; and icons are easily interchangeable in terms of color and theme. The site was an option for clients to choose from in a list of single page sites; used to endorse&#44; give information about their virtual event&#44; and promote audiences to participate before the event started.</p><p>This site was built back in 2010&#44; so some elements are quiet outdated by now. Feel free to view the site and its self standing pages in the link below. </p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "site_preview" : "http://scottjsullivan.com/_ALLSITES/MicrositeSP02/Preview/index.html",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/micro01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/micro02.jpg"
+        },
+        {
+          "title" : "Image Three",
+          "url" : "http://scottjsullivan.com/websites/imgBig/micro03.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Useful Scripts",
+      "site_bio":"<p>A guide listing out all the useful scripts for fixing things on Platform Builder and on events. Built website to contain all JavaScript&#44; ActionSript and XHTML scripts in a user friendly manner.</p><p>This site was built back in 2009&#44; so some elements are quiet outdated by now. Feel free to view the site and its self standing pages in the link below. </p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "site_preview" : "http://scottjsullivan.com/_ALLSITES/UsefulScripts/website/index.html",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/useful01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/useful02.jpg"
+        },
+        {
+          "title" : "Image Three",
+          "url" : "http://scottjsullivan.com/websites/imgBig/useful03.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"The Healthy Brown Bag",
+      "site_bio":"<p>An informative website built in the interest of eating healthy snacks and meals. The site is broken down for parents looking to make a healthy snack&#44; meal or partake in a fitness activity with their kids.</p><p>This site was built back in 2009&#44; so some elements are quiet outdated by now. Feel free to view the site and its flash counterpoint in the link below.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "site_preview" : "http://scottjsullivan.com/_ALLSITES/healthybrownbag/index.html",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/hbb01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/hbb02.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Hackney Combat Academy",
+      "site_bio":"<p>A website idea for a gym specializing in combat and fitness. The website was never developed but the overall theme and content carried over to a wordpress website.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/hackney01.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Registration Page",
+      "site_bio":"<p>A simple registration page with event information. The clean and crisp design was used for clients looking to make a registration page that didn't need to exactly match their event&#44; thus making the registration page easy to setup.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/registration01.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Cake Magazine",
+      "site_bio":"<p>A class website that was created to showcase and cell our school magazine. There was a Flash version built alongside the standard website.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/cake01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/cake02.jpg"
+        },
+        {
+          "title" : "Image Three",
+          "url" : "http://scottjsullivan.com/websites/imgBig/cake03.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"American Predator FC",
+      "site_bio":"<p>A marketing website for a quarterly MMA event. The site sold tickets and gave information to over 2&#44;000+ viewers per event. The site was later replaced by a wordpress template for simpler client updates.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/apfc01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/apfc02.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Design Catalog",
+      "site_bio":"<p>A gallery that showcased all of the offered backgrounds for the new VX platform. This was used as a marketing tool to show the clients the posibilities they had within the platform.</p><p>This site was built back in 2009, so some elements are quiet outdated by now. Feel free to view the site and its self standing pages in the link below. </p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "site_preview" : "http://scottjsullivan.com/_ALLSITES/VX_Design_Catalog/Preview/index.html",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/design01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/design02.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Fascist Nation",
+      "site_bio":"<p>A concept website for information pertaining to our rights and daily news about the topic. There is a 13 step information section with a fully functional quiz section at the end.</p><p>This site was built back in 2009, so some elements are quiet outdated by now. Feel free to view the site and its self standing pages in the link below.  </p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "site_preview":"http://scottjsullivan.com/_ALLSITES/fascistnation/index.html",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/fascist01.jpg"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/fascist02.jpg"
+        },
+        {
+          "title" : "Image Three",
+          "url" : "http://scottjsullivan.com/websites/imgBig/fascist03.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"VX Starter Kit",
+      "site_bio":"<p>This template is fully customizable in terms of theme and content. It is completely compatable with IE6+, Firefox, and Safari. It was used for clients to market their up and coming virtual events.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/starter01.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Bottled Up Brews",
+      "site_bio":"<p>A school project website containing a listing of local breweries listed by state. A full database, customer logins, brewery entry and search fuctionality for over 200+ micro brewers.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/bubs01.jpg"
+        }
+      ]
+    },
+    {
+      "web_page":"Old Portfolio Site",
+      "site_bio":"<p>My old portfolio website that displayed all of my work in a jQuery based slider. This site has been outdated since my graduation in September of 2010.</p>",
+      "tools_used":"<li>HTML / CSS3</li><li>JavaScript / jQuery / YUi</li><li>Photoshop CS5</li>",
+      "img_previews" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/oldport01.jpg"
+        }
+      ]
+    }
+  ],
+  "missing_person" :[
+    {
+      "title":"Missing Person Music",
+      "site_bio":"<p>A small hobby of mine, pilaging the librarys of music's past to create new molds driven on samples, soft/hard hitting basses and hip-hop breakbeat drums. With well over 60+ songs and 3 album collaberations for full-length LPs with other local same-minded musicians.</p><p>View my soundcloud page to see some of my highlighted and newer tracks or delve deep into my soundclick account to see over 5 years of instrumentals.</p>"
+    }
+  ],
+  "photography_page" :[
+    {
+      "title":"PhotoGraphy!",
+      "photo_images" : [
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/photos/BigGold.jpg)"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/DarkPark.jpg"
+        },
+        {
+          "title" : "Image Three",
+          "url" : "http://scottjsullivan.com/websites/imgBig/DayBreak.jpg"
+        },
+        {
+          "title" : "Image One",
+          "url" : "http://scottjsullivan.com/websites/imgBig/photos/washedUp.jpg)"
+        },
+        {
+          "title" : "Image Two",
+          "url" : "http://scottjsullivan.com/websites/imgBig/SecretPark.jpg"
+        },
+        {
+          "title" : "Image Three",
+          "url" : "http://scottjsullivan.com/websites/imgBig/NavyPier.jpg"
+        }
+      ]
+    }
+  ],
+  "contact_info" :[
+    {
+      "title":"<p>Hello, you must be here to view some of my whereabouts in the world of the web. I have been coding and designing user friendly websites for a couple years now. I started designing flash sites and find myself coding as a front end user experience developer. Enjoy dabbling in music production and look for odd beauties with my photography work. Feel free to contact me, if you see it necessarily needful.</p><p>Thanks & Enjoy,</p>",
+      "update":"Currently I am not looking for any new projects or work outside of my 9-5 job. I am availible for current projects past 6 on weekdays and weekends.<br /><br /><br /><br /><br />Sincerely,<br /><br /><br />Scott j Sullivan"
+    }
+  ]
+}
