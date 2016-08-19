@@ -1,0 +1,80 @@
+/* MAIN */
+body {
+	margin:10px 0 50px 0;
+}
+.my-btn{
+    background: #7130D2;
+    color: #ffffff;
+}
+.my-btn:hover {
+  background-color: #551a8b; 
+}
+
+/* HEADER */
+.page-header {
+  overflow:hidden;
+}
+.pet-finder-logo {
+	background-image: url(../img/petfinderlogo.gif);
+	height: 39px;
+	width: 159px;
+	display: inline-block;
+  float:left;
+}
+.search {
+	float:left;
+  margin-top:4px;
+}
+
+.pet-table {
+  //max-height: 300px;
+  //overflow-y: scroll;
+}
+
+/* SPINNER */
+.spinner {
+	width: 100px;
+	height: 100px;
+	margin:200px auto;
+}
+.glyphicon-refresh-animate {
+	font-size:75px;
+	color:#7130D2;
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+
+/* TABLE FIX*/
+.custom-tbody.table>tbody+tbody {
+  border-top: 1px solid #ddd;
+}
+.custom-tbody.table-striped>tbody:nth-of-type(odd){
+  border:none;
+}
+.custom-tbody.table-striped>tbody:nth-of-type(odd)>tr{
+  background-color:#FFF !important
+}
+.custom-tbody.table-striped>tbody>tr>td.pet-breakdown {
+  border: none;
+}
+
+
+.pet-breakdown img {
+  margin-top:20px;
+  border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
